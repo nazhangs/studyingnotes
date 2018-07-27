@@ -1,5 +1,5 @@
-#Git commands
-'''
+Git commands
+```
 git config --global user.name username
 git config --global user.email.nazhang17@gmail.com
 git config --list
@@ -15,7 +15,7 @@ git pull origin
 git add --all
 git commit -m "xx"
 git push -u origin master
-'''
+```
 https
 >https://github.com/username/repositoryname.git
 
