@@ -10,7 +10,7 @@ git branch -a
 git status
 git fetch origin
 git init
-git merge origin master --allow-unrelated-historie
+git merge origin master --allow-unrelated-histories
 git pull origin
 git add --all
 git commit -m "xx"
