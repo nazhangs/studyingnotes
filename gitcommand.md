@@ -5,6 +5,7 @@ git config --global user.email.nazhang17@gmail.com
 git config --list
 git clone https://github.com/xxx/xxx.git
 git remote set-url origin https://github.com/xxx/xxx.git
+git remote add origin https://github.com/xxx/xxx.git
 git remote -v
 git branch -a
 git status
